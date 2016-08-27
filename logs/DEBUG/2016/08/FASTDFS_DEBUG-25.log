@@ -1,0 +1,136 @@
+===20160825-145809,main[37]=== func main begin
+
+===20160825-150233,main[37]=== func main begin
+
+===20160825-150233,main[57]=== parent process fork child  begin
+
+===20160825-150233,main[66]=== child process begin
+
+===20160825-150233,main[75]=== func execlp begin
+
+===20160825-150233,main[94]=== child process end
+
+===20160825-150537,main[37]=== func main begin
+
+===20160825-150537,main[57]=== parent process fork child  begin
+
+===20160825-150537,main[66]=== child process begin
+
+===20160825-150537,main[75]=== func execlp begin
+
+===20160825-150537,main[92]=== child process end
+
+===20160825-150942,main[37]=== func main begin
+
+===20160825-150942,main[57]=== parent process fork child  begin
+
+===20160825-150942,main[66]=== child process begin
+
+===20160825-150942,main[75]=== func execlp begin
+
+===20160825-150942,main[92]=== child process end
+
+===20160825-151137,main[37]=== func main begin
+
+===20160825-151137,main[57]=== parent process fork child  begin
+
+===20160825-151137,main[66]=== child process begin
+
+===20160825-151137,main[75]=== ****file_name = day05流程.txt***
+
+===20160825-151137,main[77]=== func execlp begin
+
+===20160825-151137,main[94]=== child process end
+
+===20160825-151537,main[37]=== func main begin
+
+===20160825-151537,main[58]=== parent process fork child  begin
+
+===20160825-151537,main[67]=== child process begin
+
+===20160825-151537,main[76]=== ****file_name = day05流程.txt***
+
+===20160825-151537,main[78]=== func execlp begin
+
+===20160825-151537,main[95]=== child process end
+
+===20160825-151727,main[37]=== func main begin
+
+===20160825-151727,main[58]=== parent process fork child  begin
+
+===20160825-151727,main[67]=== child process begin
+
+===20160825-151727,main[76]=== ****file_name = day05流程.txt***
+
+===20160825-151727,main[78]=== func execlp begin
+
+===20160825-151737,main[96]=== child process end
+
+===20160825-152539,main[37]=== func main begin
+
+===20160825-152539,main[59]=== parent process fork child  begin
+
+===20160825-152539,main[68]=== child process begin
+
+===20160825-152539,main[77]=== ****file_name = day05流程.txt***
+
+===20160825-152539,main[79]=== func execlp begin
+
+===20160825-152539,main[92]=== child process end
+
+===20160825-152539,main[101]=== ***file_id=group1/M00/00/00/wKgqGFe-nXOAFh5YAAABn7P8bXM774.txt***
+
+===20160825-152816,main[37]=== func main begin
+
+===20160825-152816,main[59]=== parent process fork child  begin
+
+===20160825-152816,main[68]=== child process begin
+
+===20160825-152816,main[77]=== ****file_name = day05流程.txt***
+
+===20160825-152816,main[79]=== func execlp begin
+
+===20160825-152816,main[92]=== child process end
+
+===20160825-152816,main[101]=== ***file_id=group1/M00/00/00/wKgqGFe-nhCAZ_9iAAABn7P8bXM790.txt***
+
+===20160825-152816,main[122]=== func execlp2 begin
+
+===20160825-152816,main[150]=== ***output=http://192.168.42.24/group1/M00/00/00/wKgqGFe-nhCAZ_9iAAABn7P8bXM790.txt***
+
+===20160825-153134,main[37]=== func main begin
+
+===20160825-153134,main[59]=== parent process fork child  begin
+
+===20160825-153134,main[68]=== child process begin
+
+===20160825-153134,main[77]=== ****file_name = day05流程.txt***
+
+===20160825-153134,main[79]=== func execlp begin
+
+===20160825-153134,main[92]=== child process end
+
+===20160825-153134,main[101]=== ***file_id=group1/M00/00/00/wKgqGFe-ntaAOI7xAAABn7P8bXM965.txt***
+
+===20160825-153134,main[122]=== func execlp2 begin
+
+===20160825-153134,main[150]=== ***output=http://192.168.42.24/group1/M00/00/00/wKgqGFe-ntaAOI7xAAABn7P8bXM965.txt***
+
+===20160825-155750,main[37]=== func main begin
+
+===20160825-155750,main[59]=== parent process fork child  begin
+
+===20160825-155750,main[68]=== child process begin
+
+===20160825-155750,main[77]=== ****file_name = day05流程.txt***
+
+===20160825-155750,main[79]=== func execlp begin
+
+===20160825-155750,main[92]=== child process end
+
+===20160825-155750,main[101]=== ***file_id=group1/M00/00/00/wKgqGFe-pP6AfzURAAAB38l_vnI342.txt***
+
+===20160825-155750,main[122]=== func execlp2 begin
+
+===20160825-155750,main[152]=== ***output=http://192.168.42.24/group1/M00/00/00/wKgqGFe-pP6AfzURAAAB38l_vnI342.txt***
+

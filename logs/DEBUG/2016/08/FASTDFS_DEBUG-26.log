@@ -1,0 +1,270 @@
+===20160826-151115,main[37]=== func main begin
+
+===20160826-151115,main[59]=== parent process fork child  begin
+
+===20160826-151115,main[68]=== child process begin
+
+===20160826-151115,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-151115,main[79]=== func execlp begin
+
+===20160826-151115,main[92]=== child process end
+
+===20160826-151115,main[101]=== ***file_id=***
+
+===20160826-151115,main[122]=== func execlp2 begin
+
+===20160826-231645,main[37]=== func main begin
+
+===20160826-231645,main[59]=== parent process fork child  begin
+
+===20160826-231645,main[68]=== child process begin
+
+===20160826-231645,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-231645,main[79]=== func execlp begin
+
+===20160826-231715,main[92]=== child process end
+
+===20160826-231715,main[101]=== ***file_id=***
+
+===20160826-231715,main[122]=== func execlp2 begin
+
+===20160826-232027,main[37]=== func main begin
+
+===20160826-232027,main[59]=== parent process fork child  begin
+
+===20160826-232027,main[68]=== child process begin
+
+===20160826-232027,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-232027,main[79]=== func execlp begin
+
+===20160826-232057,main[92]=== child process end
+
+===20160826-232057,main[101]=== ***file_id=***
+
+===20160826-232057,main[122]=== func execlp2 begin
+
+===20160826-232235,main[37]=== func main begin
+
+===20160826-232235,main[59]=== parent process fork child  begin
+
+===20160826-232235,main[68]=== child process begin
+
+===20160826-232235,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-232235,main[79]=== func execlp begin
+
+===20160826-232305,main[92]=== child process end
+
+===20160826-232305,main[101]=== ***file_id=***
+
+===20160826-232305,main[122]=== func execlp2 begin
+
+===20160826-232651,main[37]=== func main begin
+
+===20160826-232651,main[59]=== parent process fork child  begin
+
+===20160826-232651,main[68]=== child process begin
+
+===20160826-232651,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-232651,main[79]=== func execlp begin
+
+===20160826-232721,main[92]=== child process end
+
+===20160826-232721,main[101]=== ***file_id=***
+
+===20160826-232721,main[122]=== func execlp2 begin
+
+===20160826-233009,main[37]=== func main begin
+
+===20160826-233009,main[59]=== parent process fork child  begin
+
+===20160826-233009,main[68]=== child process begin
+
+===20160826-233009,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-233009,main[79]=== func execlp begin
+
+===20160826-233039,main[92]=== child process end
+
+===20160826-233039,main[101]=== ***file_id=***
+
+===20160826-233039,main[122]=== func execlp2 begin
+
+===20160826-233215,main[37]=== func main begin
+
+===20160826-233215,main[59]=== parent process fork child  begin
+
+===20160826-233215,main[68]=== child process begin
+
+===20160826-233215,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-233215,main[79]=== func execlp begin
+
+===20160826-233245,main[92]=== child process end
+
+===20160826-233245,main[101]=== ***file_id=***
+
+===20160826-233245,main[122]=== func execlp2 begin
+
+===20160826-233347,main[37]=== func main begin
+
+===20160826-233347,main[59]=== parent process fork child  begin
+
+===20160826-233347,main[68]=== child process begin
+
+===20160826-233347,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-233347,main[79]=== func execlp begin
+
+===20160826-233417,main[92]=== child process end
+
+===20160826-233417,main[101]=== ***file_id=***
+
+===20160826-233417,main[122]=== func execlp2 begin
+
+===20160826-233641,main[37]=== func main begin
+
+===20160826-233641,main[59]=== parent process fork child  begin
+
+===20160826-233641,main[68]=== child process begin
+
+===20160826-233641,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-233641,main[79]=== func execlp begin
+
+===20160826-233711,main[92]=== child process end
+
+===20160826-233711,main[101]=== ***file_id=***
+
+===20160826-233711,main[122]=== func execlp2 begin
+
+===20160826-234332,main[37]=== func main begin
+
+===20160826-234332,main[59]=== parent process fork child  begin
+
+===20160826-234332,main[68]=== child process begin
+
+===20160826-234332,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-234332,main[79]=== func execlp begin
+
+===20160826-234332,main[92]=== child process end
+
+===20160826-234332,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAY6SAKBDnAAAC6-WP7g4095.txt***
+
+===20160826-234332,main[122]=== func execlp2 begin
+
+===20160826-234332,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAY6SAKBDnAAAC6-WP7g4095.txt***
+
+===20160826-234528,main[37]=== func main begin
+
+===20160826-234528,main[59]=== parent process fork child  begin
+
+===20160826-234528,main[68]=== child process begin
+
+===20160826-234528,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-234528,main[79]=== func execlp begin
+
+===20160826-234528,main[92]=== child process end
+
+===20160826-234528,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAZBiAQ5CjAAAC6-WP7g4214.txt***
+
+===20160826-234528,main[122]=== func execlp2 begin
+
+===20160826-234528,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAZBiAQ5CjAAAC6-WP7g4214.txt***
+
+===20160826-234622,main[37]=== func main begin
+
+===20160826-234622,main[59]=== parent process fork child  begin
+
+===20160826-234622,main[68]=== child process begin
+
+===20160826-234622,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-234622,main[79]=== func execlp begin
+
+===20160826-234622,main[92]=== child process end
+
+===20160826-234622,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAZE6AArWgAAAC6-WP7g4679.txt***
+
+===20160826-234622,main[122]=== func execlp2 begin
+
+===20160826-234622,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAZE6AArWgAAAC6-WP7g4679.txt***
+
+===20160826-234725,main[37]=== func main begin
+
+===20160826-234725,main[59]=== parent process fork child  begin
+
+===20160826-234725,main[68]=== child process begin
+
+===20160826-234725,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-234725,main[79]=== func execlp begin
+
+===20160826-234725,main[92]=== child process end
+
+===20160826-234725,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAZI2Afq4dAAAC6-WP7g4652.txt***
+
+===20160826-234725,main[122]=== func execlp2 begin
+
+===20160826-234725,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAZI2Afq4dAAAC6-WP7g4652.txt***
+
+===20160826-234909,main[37]=== func main begin
+
+===20160826-234909,main[59]=== parent process fork child  begin
+
+===20160826-234909,main[68]=== child process begin
+
+===20160826-234909,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-234909,main[79]=== func execlp begin
+
+===20160826-234909,main[92]=== child process end
+
+===20160826-234909,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAZPWAIfDmAAAC6-WP7g4684.txt***
+
+===20160826-234909,main[122]=== func execlp2 begin
+
+===20160826-234909,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAZPWAIfDmAAAC6-WP7g4684.txt***
+
+===20160826-234931,main[37]=== func main begin
+
+===20160826-234931,main[59]=== parent process fork child  begin
+
+===20160826-234931,main[68]=== child process begin
+
+===20160826-234931,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-234931,main[79]=== func execlp begin
+
+===20160826-234931,main[92]=== child process end
+
+===20160826-234931,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAZQuASc7UAAAC6-WP7g4217.txt***
+
+===20160826-234931,main[122]=== func execlp2 begin
+
+===20160826-234931,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAZQuASc7UAAAC6-WP7g4217.txt***
+
+===20160826-235132,main[37]=== func main begin
+
+===20160826-235132,main[59]=== parent process fork child  begin
+
+===20160826-235132,main[68]=== child process begin
+
+===20160826-235132,main[77]=== ****file_name = day05流程.txt***
+
+===20160826-235132,main[79]=== func execlp begin
+
+===20160826-235132,main[92]=== child process end
+
+===20160826-235132,main[101]=== ***file_id=group1/M00/00/00/wKgACFfAZYSADVzVAAAC6-WP7g4054.txt***
+
+===20160826-235132,main[122]=== func execlp2 begin
+
+===20160826-235132,main[152]=== ***output=http://192.168.0.8/group1/M00/00/00/wKgACFfAZYSADVzVAAAC6-WP7g4054.txt***
+
